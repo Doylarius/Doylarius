@@ -13,11 +13,11 @@
 
 ###
 
-<h1 align="center">Hey there 👋 I'm Senior Mobile Engineer (Flutter | React Native | iOS)</h1>
+<h1 align="center">Hey there <br> 👋 I'm Senior Mobile Engineer (Flutter | React Native | iOS)</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br><br>Senior Mobile Engineer specializing in Flutter, React Native, and native iOS (Swift/SwiftUI), building scalable, highperformance applications across mobile and desktop platforms. Strong background in cross-platform architecture,<br>AI-powered feature integration, and large-scale modernization initiatives. Proven ability to drive end-to-end<br>product execution from concept to App Store release while improving performance, reliability, and business<br>outcomes.<br>Passionate about clean architecture, seamless user experiences, and building maintainable codebases that scale with<br>business growth.</h3>
+<h3 align="left">👩‍💻  About Me <br><br>Senior Mobile Engineer specializing in Flutter, React Native, and native iOS (Swift/SwiftUI), building scalable, highperformance applications across mobile and desktop platforms. Strong background in cross-platform architecture, AI-powered feature integration, and large-scale modernization initiatives. Proven ability to drive end-to-end<br>product execution from concept to App Store release while improving performance, reliability, and business<br>outcomes. Passionate about clean architecture, seamless user experiences, and building maintainable codebases that scale with<br>business growth.</h3>
 
 ###
 
