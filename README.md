@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋<br>I'm Senior Mobile Engineer (Flutter | React Native | iOS)</h1>
+<h1 align="center">Hey there 👋<br>I'm Senior Mobile Engineer (iOS/Android)</h1>
 
 ###
 
